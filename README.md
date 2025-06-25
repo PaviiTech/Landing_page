@@ -1,1 +1,1 @@
-# Landing_page
+This project is a simple, responsive landing page built using HTML5 and CSS3. It features a clean layout with a header (logo + navigation), a hero section (headline, paragraph, and CTA button), and a footer with social links. The layout is created using CSS Flexbox and styled for both desktop and mobile using media queries. It helps in understanding semantic HTML, responsive design, and clean UI structure. Ideal for showcasing front-end skills in portfolios or interviews.
